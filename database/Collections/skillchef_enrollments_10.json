@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "7eaef7d5-5c03-46d5-a81f-714aee980fa7",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "c9a3f2ff-5552-4db9-992f-ca2091d9af8b",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "07d9505d-b013-45a6-820d-b467ba4123b3",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "534c0013-684d-4048-bd2f-d932293f3798",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "cd0896c6-5331-41d0-a107-be0caae9fbcb",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "e7b30e62-d0d8-4149-9874-ff0b00b85a50",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "2558eb56-2015-4240-9449-bf745abce1f7",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "98edfb36-2797-4e9b-aef0-61d3a0fbc631",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "d489575c-254b-4da2-9b38-cec30bc3f8a6",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "75fb398d-0ef6-47cf-b83c-e0eebfaffa95",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "enrolledAt": "2025-07-24T03:53:45.490758Z"
+  }
+]

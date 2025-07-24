@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "103ce719-5287-4c7a-88d8-cb556fdc336e",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+    "rating": 3,
+    "comment": "Loved it",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "214257e0-af44-4743-828d-bca38b3d84da",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "rating": 3,
+    "comment": "Loved it",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "e24b7487-2b54-4e05-a882-8e14aec481a3",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+    "rating": 3,
+    "comment": "Great content",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "d136f891-76ec-4530-88d8-b9cee49905ca",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "rating": 5,
+    "comment": "Great content",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "7f95bcc9-5f15-46be-8fd9-7c117811d8dd",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "rating": 5,
+    "comment": "Very useful",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "2cf7547f-17ae-4811-9122-a2ce1b944924",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "rating": 4,
+    "comment": "Loved it",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "ffd9f24e-c9b5-4e0f-b602-52ef621e01af",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "rating": 3,
+    "comment": "Amazing!",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "aa0e6c83-313a-40de-83ff-ced455b503a8",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+    "rating": 4,
+    "comment": "Very useful",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "26faad13-a703-48c0-b816-49c20d8203f7",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+    "rating": 4,
+    "comment": "Great content",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "7d2d9179-3633-4d0a-9d82-7dcc176b33df",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+    "rating": 3,
+    "comment": "Great content",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  }
+]

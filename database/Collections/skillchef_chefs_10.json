@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "387fd501-a874-4c78-bb35-a698d2e1d270",
+    "name": "Chef Raj 25",
+    "email": "chef165@skillchef.com",
+    "specialty": "Desserts",
+    "bio": "Spices and flavors expert with 20 years in Indian cuisine.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "d18f590f-60f6-4b21-ae65-414c04ccb811",
+    "name": "Chef Raj 47",
+    "email": "chef312@skillchef.com",
+    "specialty": "Fusion",
+    "bio": "Spices and flavors expert with 20 years in Indian cuisine.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "52b56743-9af8-4c0d-8932-a7c3109b1528",
+    "name": "Chef Amara 38",
+    "email": "chef294@skillchef.com",
+    "specialty": "Vegan",
+    "bio": "A pastry chef with 10 years of experience in French baking.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "7eb72dd3-ba55-4c77-9924-9d1aab074ecc",
+    "name": "Chef Raj 40",
+    "email": "chef502@skillchef.com",
+    "specialty": "Indian",
+    "bio": "Spices and flavors expert with 20 years in Indian cuisine.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "b4845736-6437-4fc4-9570-572f4eddc49d",
+    "name": "Chef Raj 34",
+    "email": "chef401@skillchef.com",
+    "specialty": "Vegan",
+    "bio": "Spices and flavors expert with 20 years in Indian cuisine.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "4c27ef92-452c-4930-afce-3d9eca48db87",
+    "name": "Chef Amara 29",
+    "email": "chef45@skillchef.com",
+    "specialty": "Fusion",
+    "bio": "A pastry chef with 10 years of experience in French baking.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "f332ec1c-736b-4545-b733-6f183fded5b4",
+    "name": "Chef Raj 47",
+    "email": "chef977@skillchef.com",
+    "specialty": "Italian",
+    "bio": "Spices and flavors expert with 20 years in Indian cuisine.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "4df92d56-8ffa-42c7-bdb5-126ca2d8ca42",
+    "name": "Chef Raj 18",
+    "email": "chef248@skillchef.com",
+    "specialty": "Desserts",
+    "bio": "Spices and flavors expert with 20 years in Indian cuisine.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "75243812-8b68-4a70-a8f7-15b3e97956f6",
+    "name": "Chef Amara 22",
+    "email": "chef181@skillchef.com",
+    "specialty": "Indian",
+    "bio": "A pastry chef with 10 years of experience in French baking.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "eb07040c-7edc-4d84-a20e-0fb81fffc279",
+    "name": "Chef Raj 30",
+    "email": "chef838@skillchef.com",
+    "specialty": "Indian",
+    "bio": "Spices and flavors expert with 20 years in Indian cuisine.",
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  }
+]

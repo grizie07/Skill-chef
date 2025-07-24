@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "3f8ebef8-8e37-4639-a703-16431a8f2d7c",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "items": [
+      {
+        "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+        "name": "Masala Dosa",
+        "price": 349,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "bd89012e-3bb8-4e84-8424-47c30bb550ca",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "items": [
+      {
+        "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+        "name": "Chocolate Lava Cake",
+        "price": 427,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "cb3cd24f-b920-4723-8705-bf7a0f813d0f",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "items": [
+      {
+        "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+        "name": "Chocolate Lava Cake",
+        "price": 151,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "c1a9cb84-c630-4d34-a4cb-23a9f85c9d2c",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "items": [
+      {
+        "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+        "name": "Masala Dosa",
+        "price": 154,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "d6b5110c-18da-4bb9-8150-2d508dd51d89",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "items": [
+      {
+        "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+        "name": "Chocolate Lava Cake",
+        "price": 403,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "ce252b63-ed3f-417a-9a40-9b357360b19e",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "items": [
+      {
+        "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+        "name": "Chocolate Lava Cake",
+        "price": 415,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "e4f30645-1827-43c0-9395-57e2f367afba",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "items": [
+      {
+        "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+        "name": "Masala Dosa",
+        "price": 131,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "bd64dc0e-21df-4b53-b976-3bcb3c3e7be1",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "items": [
+      {
+        "recipeId": "21336657-4f07-4656-afa6-65b6064466dd",
+        "name": "Chocolate Lava Cake",
+        "price": 427,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "75648821-79dc-43ba-88da-a6d6cc4cadc1",
+    "userId": "b5be42b7-fa22-49e4-a758-7624b6ddbbae",
+    "items": [
+      {
+        "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+        "name": "Masala Dosa",
+        "price": 214,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "de57cde9-1022-47cf-b046-60480538b901",
+    "userId": "8aba6bf7-7e7f-4d5e-b77e-57e25f564496",
+    "items": [
+      {
+        "recipeId": "26555ab8-a661-4a1d-a5b4-857fdabbf046",
+        "name": "Chocolate Lava Cake",
+        "price": 309,
+        "quantity": 1,
+        "addedAt": "2025-07-24T03:53:45.490758Z"
+      }
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  }
+]

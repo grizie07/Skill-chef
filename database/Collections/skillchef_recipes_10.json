@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "20992eef-b850-4c29-bd5d-c7e25f9a4b62",
+    "title": "Masala Dosa v34",
+    "chefId": "75617221-4721-4caa-b1b5-63c2d855986f",
+    "categoryId": "0f3c9bc8-1901-4abd-aba5-47017f67bda9",
+    "difficulty": "Easy",
+    "duration": 58,
+    "tags": [
+      "spicy",
+      "south indian",
+      "breakfast"
+    ],
+    "steps": [
+      "Prepare batter",
+      "Cook dosa",
+      "Fill with potato masala"
+    ],
+    "ingredients": [
+      "Rice",
+      "Urad dal",
+      "Potato",
+      "Onion",
+      "Spices"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "55032d97-5be4-455a-b57e-0acf5d65021a",
+    "title": "Masala Dosa v32",
+    "chefId": "75617221-4721-4caa-b1b5-63c2d855986f",
+    "categoryId": "0f3c9bc8-1901-4abd-aba5-47017f67bda9",
+    "difficulty": "Medium",
+    "duration": 90,
+    "tags": [
+      "spicy",
+      "south indian",
+      "breakfast"
+    ],
+    "steps": [
+      "Prepare batter",
+      "Cook dosa",
+      "Fill with potato masala"
+    ],
+    "ingredients": [
+      "Rice",
+      "Urad dal",
+      "Potato",
+      "Onion",
+      "Spices"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "70ac82cb-b43a-4375-a7e9-c041a7092399",
+    "title": "Chocolate Lava Cake v42",
+    "chefId": "6c10e8a1-49fc-4c97-a5e4-7f958d1fe60c",
+    "categoryId": "4043d792-0cbf-453c-b3e8-dffb926dda20",
+    "difficulty": "Hard",
+    "duration": 20,
+    "tags": [
+      "chocolate",
+      "dessert",
+      "bake"
+    ],
+    "steps": [
+      "Mix ingredients",
+      "Preheat oven",
+      "Bake for 12 mins"
+    ],
+    "ingredients": [
+      "Dark chocolate",
+      "Eggs",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "923c79a0-b2e2-45a6-bd22-7d35bc3adf4b",
+    "title": "Chocolate Lava Cake v55",
+    "chefId": "6c10e8a1-49fc-4c97-a5e4-7f958d1fe60c",
+    "categoryId": "4043d792-0cbf-453c-b3e8-dffb926dda20",
+    "difficulty": "Medium",
+    "duration": 87,
+    "tags": [
+      "chocolate",
+      "dessert",
+      "bake"
+    ],
+    "steps": [
+      "Mix ingredients",
+      "Preheat oven",
+      "Bake for 12 mins"
+    ],
+    "ingredients": [
+      "Dark chocolate",
+      "Eggs",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "9e981328-3650-492d-b276-56fa4771afa9",
+    "title": "Chocolate Lava Cake v12",
+    "chefId": "6c10e8a1-49fc-4c97-a5e4-7f958d1fe60c",
+    "categoryId": "4043d792-0cbf-453c-b3e8-dffb926dda20",
+    "difficulty": "Hard",
+    "duration": 24,
+    "tags": [
+      "chocolate",
+      "dessert",
+      "bake"
+    ],
+    "steps": [
+      "Mix ingredients",
+      "Preheat oven",
+      "Bake for 12 mins"
+    ],
+    "ingredients": [
+      "Dark chocolate",
+      "Eggs",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "e30575f3-47f6-4ec7-89c1-2c5bab9ba8e9",
+    "title": "Chocolate Lava Cake v85",
+    "chefId": "6c10e8a1-49fc-4c97-a5e4-7f958d1fe60c",
+    "categoryId": "4043d792-0cbf-453c-b3e8-dffb926dda20",
+    "difficulty": "Medium",
+    "duration": 43,
+    "tags": [
+      "chocolate",
+      "dessert",
+      "bake"
+    ],
+    "steps": [
+      "Mix ingredients",
+      "Preheat oven",
+      "Bake for 12 mins"
+    ],
+    "ingredients": [
+      "Dark chocolate",
+      "Eggs",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "3619716b-ff49-48e2-bca8-32b47a167ec9",
+    "title": "Chocolate Lava Cake v86",
+    "chefId": "6c10e8a1-49fc-4c97-a5e4-7f958d1fe60c",
+    "categoryId": "4043d792-0cbf-453c-b3e8-dffb926dda20",
+    "difficulty": "Hard",
+    "duration": 25,
+    "tags": [
+      "chocolate",
+      "dessert",
+      "bake"
+    ],
+    "steps": [
+      "Mix ingredients",
+      "Preheat oven",
+      "Bake for 12 mins"
+    ],
+    "ingredients": [
+      "Dark chocolate",
+      "Eggs",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "b0e2208f-4512-4b77-8d99-a0d004c02802",
+    "title": "Chocolate Lava Cake v4",
+    "chefId": "6c10e8a1-49fc-4c97-a5e4-7f958d1fe60c",
+    "categoryId": "4043d792-0cbf-453c-b3e8-dffb926dda20",
+    "difficulty": "Hard",
+    "duration": 28,
+    "tags": [
+      "chocolate",
+      "dessert",
+      "bake"
+    ],
+    "steps": [
+      "Mix ingredients",
+      "Preheat oven",
+      "Bake for 12 mins"
+    ],
+    "ingredients": [
+      "Dark chocolate",
+      "Eggs",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "84ef2b46-927d-48fb-92a4-af8a6c0ea507",
+    "title": "Chocolate Lava Cake v70",
+    "chefId": "6c10e8a1-49fc-4c97-a5e4-7f958d1fe60c",
+    "categoryId": "4043d792-0cbf-453c-b3e8-dffb926dda20",
+    "difficulty": "Easy",
+    "duration": 90,
+    "tags": [
+      "chocolate",
+      "dessert",
+      "bake"
+    ],
+    "steps": [
+      "Mix ingredients",
+      "Preheat oven",
+      "Bake for 12 mins"
+    ],
+    "ingredients": [
+      "Dark chocolate",
+      "Eggs",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "6eebe7ed-bdfa-40c9-a718-5a7b833d86b6",
+    "title": "Chocolate Lava Cake v56",
+    "chefId": "6c10e8a1-49fc-4c97-a5e4-7f958d1fe60c",
+    "categoryId": "4043d792-0cbf-453c-b3e8-dffb926dda20",
+    "difficulty": "Easy",
+    "duration": 29,
+    "tags": [
+      "chocolate",
+      "dessert",
+      "bake"
+    ],
+    "steps": [
+      "Mix ingredients",
+      "Preheat oven",
+      "Bake for 12 mins"
+    ],
+    "ingredients": [
+      "Dark chocolate",
+      "Eggs",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "8586559c-19c1-4757-849b-be7c3a177c70",
+    "name": "Alice Johnson 853",
+    "email": "user4074@skillchef.com",
+    "address": {
+      "city": "Delhi",
+      "zip": "600001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "0c7020d5-571e-4c15-8640-520b88081cba",
+    "name": "Alice Johnson 165",
+    "email": "user8233@skillchef.com",
+    "address": {
+      "city": "Mumbai",
+      "zip": "600001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "7cfe9f1a-2c58-462d-abad-2993b206b033",
+    "name": "Bob Singh 271",
+    "email": "user2981@skillchef.com",
+    "address": {
+      "city": "Mumbai",
+      "zip": "560001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "1817dfe5-d678-4952-b4e4-145b8a95de1f",
+    "name": "Bob Singh 717",
+    "email": "user7076@skillchef.com",
+    "address": {
+      "city": "Delhi",
+      "zip": "560001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "bbc72d04-9f55-4a1e-aca7-a089a8000428",
+    "name": "Alice Johnson 596",
+    "email": "user3545@skillchef.com",
+    "address": {
+      "city": "Bangalore",
+      "zip": "600001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "f808e6d2-cb62-4d85-921e-55ae8dff2634",
+    "name": "Alice Johnson 498",
+    "email": "user907@skillchef.com",
+    "address": {
+      "city": "Delhi",
+      "zip": "600001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "68522b35-32ef-4636-882f-c958ba4996f4",
+    "name": "Bob Singh 712",
+    "email": "user4274@skillchef.com",
+    "address": {
+      "city": "Chennai",
+      "zip": "560001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "0d7b5ce9-76ad-4850-bb30-1e385a696fd3",
+    "name": "Bob Singh 216",
+    "email": "user6947@skillchef.com",
+    "address": {
+      "city": "Bangalore",
+      "zip": "560001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "f8da3d99-7b90-4a43-9532-d8b8f08d5283",
+    "name": "Alice Johnson 526",
+    "email": "user3348@skillchef.com",
+    "address": {
+      "city": "Mumbai",
+      "zip": "600001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  },
+  {
+    "_id": "3bd098c6-8145-4144-9bab-b5a29dbecb4b",
+    "name": "Bob Singh 780",
+    "email": "user5290@skillchef.com",
+    "address": {
+      "city": "Bangalore",
+      "zip": "560001"
+    },
+    "wishlist": [],
+    "createdAt": "2025-07-24T03:53:45.490758Z",
+    "updatedAt": "2025-07-24T03:53:45.490758Z"
+  }
+]
